@@ -1,5 +1,5 @@
 """
-Finds the fist 10 terms of the sum of the 150 digit number
+Finds the first 10 terms of the sum of the 150 digit number
 Result: 5537376230
 Runtime:0.0006866094311632764
 
